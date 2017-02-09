@@ -1,14 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title> Hola, Mundo! </title>
-<style type="text/css">
-body{
-      color:purple;
-      background-color: #d8da3d}
-   </style>
- </head>
-      <body>
-         <p> Hola. Mundo! </p>
-      </body>
- </html>
+Daniel3826.github.io
